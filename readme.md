@@ -1,6 +1,6 @@
-# Node Project Template
+# Node Compressor
 
-Template for projects with Node.js
+File Compressor with Node.js
 
 # Development dependencies
 
@@ -12,3 +12,7 @@ Template for projects with Node.js
   - eslint-plugin-promise: "6.1.1"
   - eslint-config-prettier: "8.6.0"
 - prettier: "2.8.3"
+
+# Dependencies
+
+- cli-progress: "3.12.0"
